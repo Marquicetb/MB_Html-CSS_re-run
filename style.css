@@ -1,0 +1,9 @@
+body{
+    background-color:cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.resource-card{
+    border-radius: 3;
+    border-color: darkblue;
+    border-style: groove;
+}
